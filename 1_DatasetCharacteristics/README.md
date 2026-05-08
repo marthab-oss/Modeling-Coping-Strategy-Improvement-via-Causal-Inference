@@ -38,8 +38,12 @@ The exploratory data analysis is conducted in the [exploratory_data_analysis.ipy
 - Data loading and initial inspection
 - Statistical summaries and distributions:
   <img width="1200" height="1200" alt="Histogramm" src="https://github.com/user-attachments/assets/51552bf5-8c94-4639-9cfe-05cdc1cd69e8" />
-- Missing value analysis: no missing values
+  
 - Feature correlation analysis:
  <img width="640" height="480" alt="Correlation_Matrix (1)" src="https://github.com/user-attachments/assets/b0b56ce2-547f-46e2-bb5f-f4588d7f334e" />
-- Data visualization and insights:
-- Data quality assessment: 
+ 
+- Data visualization and insights, like outliners:
+  <img width="800" height="400" alt="Boxplot_for_outliners" src="https://github.com/user-attachments/assets/56c2a0f2-8773-4fb9-86f3-79e327bb0d1f" />
+
+- Data quality assessment:
+- Missing value analysis: no missing values 
