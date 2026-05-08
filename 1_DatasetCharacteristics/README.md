@@ -6,18 +6,18 @@
 
 ### Dataset Source
 - **Dataset Link:** [https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-neurips-2025]
-- **Dataset Owner/Contact:** [Dataset from Kaggle, no author named]
+- **Dataset Owner/Contact:** Dataset from Kaggle, no author named
 
 ### Dataset Characteristics
-- **Number of Observations:** [Total number of samples/records in your dataset. For time series data, also specify the temporal resolution (e.g., daily, hourly, etc.)]
-- **Number of Features:** [Total number of features in your dataset]
+- **Number of Observations:** [500]
+- **Number of Features:** [8]
 
 ### Target Variable/Label
-- **Label Name:** [Name of the target variable/column]
-- **Label Type:** [Classification/Regression/Clustering/Other]
-- **Label Description:** [What does this label represent? What is the prediction task?]
-- **Label Values:** [For classification: list of classes and their meanings. For regression: range of values. For other tasks: describe the label structure]
-- **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
+- **Label Name:** [coping_strategy_improvement]
+- **Label Type:** [Regression]
+- **Label Description:** [ability to adapt to problems or new environment, and is dependent on the socio- economic environment]
+- **Label Values:** [range: 0.18-10.80]
+- **Label Distribution:** [mostly concentrated between values of 4 and eight, histogramm close to a gausian curve. Same applies to other features, except the first one, which only gives 0 or 1 for educational intervention yes or no.]
 
 ### Feature Description
 [Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
