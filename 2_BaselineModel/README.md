@@ -5,12 +5,12 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** [e.g., Random Forest, Logistic Regression, Linear Regression, Naive Bayes, etc.]
+- **Baseline Model Type:** ElasticNetCV
 - **Rationale:** [Brief explanation of why this model was chosen as baseline]
 
 ### Model Performance
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
-- **Performance Score:** [e.g., 85% accuracy, F1-score of 0.78, MSE of 0.15]
+- **Evaluation Metric:** MSE, MAE, R², RMSE
+- **Performance Score:** R²: 0.837, MSE: 0.570, MAE: 0.584, RMSE: 0.755
 - **Cross-Validation Score:** [Mean and standard deviation of CV scores, e.g., 0.82 ± 0.03]
 
 ### Evaluation Methodology
