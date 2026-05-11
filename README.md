@@ -15,9 +15,9 @@ Regression
 ### Results Summary
 
 #### Best Model Performance
-- **Best Model:** [Name and type of the best-performing model"]
-- **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE]
-- **Final Performance:** [Best score achieved, e.g., 95% accuracy, F1-score of 0.87, MSE of 0.12]
+- **Best Model:** ElasticNetCV
+- **Evaluation Metric:** MSE, R^2
+- **Final Performance:** MSE ≈ , R^2 ≈ 
 
 #### Model Comparison
 - **Baseline Performance:** [Baseline model performance for comparison]
