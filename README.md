@@ -6,11 +6,11 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Prediction based on social, educational and health characteristics
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression
 
 ### Results Summary
 
