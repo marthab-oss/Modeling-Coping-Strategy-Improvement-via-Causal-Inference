@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Modeling-Coping-Strategy-Improvement-via-Causal-Inference
 
 ## Repository Link
 
