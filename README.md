@@ -40,4 +40,4 @@ Regression
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](DAG_stat.jpeg)
