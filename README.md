@@ -40,4 +40,4 @@ Regression
 
 ## Cover Image
 
-![Project Cover Image](<img width="1000" height="700" alt="DAG_stat" src="https://github.com/user-attachments/assets/7660e556-07e3-438c-a393-817479251de6" />)
+![Project Cover Image]<img width="1000" height="700" alt="DAG_stat" src="https://github.com/user-attachments/assets/7660e556-07e3-438c-a393-817479251de6" />
