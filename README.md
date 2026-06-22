@@ -15,20 +15,20 @@ Regression
 ### Results Summary
 
 #### Best Model Performance
-- **Best Model:** ElasticNetCV
-- **Evaluation Metric:** MSE, R^2
-- **Final Performance:** MSE ≈ , R^2 ≈ 
+- **Best Model:** GradientBoostingRegressor
+- **Evaluation Metric:** R², MSE
+- **Final Performance:** R²: 0.806, MSE:0.678
 
 #### Model Comparison
-- **Baseline Performance:** [Baseline model performance for comparison]
-- **Improvement Over Baseline:** [Quantitative improvement, e.g., "+12% accuracy", "25% reduction in MSE"]
-- **Best Alternative Model:** [Second-best model and its performance]
+- **Baseline Performance:** ElasticNetCV with R²: 0.837,	MSE: 0.569
+- **Improvement Over Baseline:** so -4% in R² but +16% in MSE in comparison to best model
+- **Best Alternative Model:** SGD Regressor with R²: 0.839, 	MSE: 0.562
 
 #### Key Insights
-- **Most Important Features:** [Top 3-5 features that drive model performance]
-- **Model Strengths:** [What the model does well]
-- **Model Limitations:** [Known limitations and failure cases]
-- **Business Impact:** [Practical implications of the model performance]
+- **Most Important Features:** social_support_enhancement, mental_health_score, baseline_cognitive_score 
+- **Model Strengths:** minimizes bias, good prediction score
+- **Model Limitations:** a filled dataset (as few gaps as possible) is needed, as the model only interpolates and does not fill missing datapoints
+- **Business Impact:** predicition accuracy, so important to predict trends out of datasets as the base for decision-making
 
 ## Documentation
 
